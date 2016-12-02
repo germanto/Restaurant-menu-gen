@@ -1,0 +1,30 @@
+{
+  "name": "RestaurantMenuGenerator",
+  "version": "1.0.0",
+  "description": "The quest to end pdf restaurant menus",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tevko/RestaurantMenuGenerator.git"
+  },
+  "author": "@tevko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tevko/RestaurantMenuGenerator/issues"
+  },
+  "homepage": "https://github.com/tevko/RestaurantMenuGenerator",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.5.0",
+    "browser-sync": "^2.11.1",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-sass": "^2.2.0",
+    "gulp-uglify": "^1.5.2"
+  }
+}
